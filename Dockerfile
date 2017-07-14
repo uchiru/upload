@@ -11,4 +11,4 @@ COPY . /app
 
 EXPOSE 9292
 
-CMD rackup
+CMD ["rackup"]
